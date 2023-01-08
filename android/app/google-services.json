@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "474322236681",
+    "project_id": "digibell-c4765",
+    "storage_bucket": "digibell-c4765.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474322236681:android:3f67cdd1eeeb00b80c0fd8",
+        "android_client_info": {
+          "package_name": "com.example.digi_bell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474322236681-7f7jojt9dpgm8rbav7v8s7lravg0b9si.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSZ9shDRjvLXUkbtKwyoPybq8-QLnxvck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474322236681-7f7jojt9dpgm8rbav7v8s7lravg0b9si.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
